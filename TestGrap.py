@@ -1,7 +1,7 @@
 from numpy import *
 import pylab as plt
 
-x = linspace(-10, 10, 100)
+x = linspace(0, 10, 100)
 y = x
 
 plt.plot(x,y)
